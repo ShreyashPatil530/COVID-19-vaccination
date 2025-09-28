@@ -142,7 +142,7 @@ Minimum 8GB RAM (16GB recommended for large datasets)
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/COVID-19-Vaccination.git
+git clone https://github.com/shreyashpatil530/COVID-19-Vaccination.git
 cd COVID-19-Vaccination
 ```
 
@@ -464,19 +464,17 @@ We welcome contributions from researchers, data scientists, public health profes
 ## 📧 Contact & Support
 
 ### Project Team
-**Lead Data Scientist**: [Your Name]
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
-- 🐦 Twitter: [@YourTwitterHandle]
+**Lead Data Scientist**: Shreyash Patil
+- 📧 Email: shreyashpatil539@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/shreyash-patil-ba921737b/
+- 🐙 GitHub: https://github.com/ShreyashPatil530
 
-**Public Health Advisor**: [Advisor Name]
-- 📧 Email: advisor.email@institution.edu
+
 
 ### Project Links
-- **GitHub Repository**: [https://github.com/yourusername/COVID-19-Vaccination](https://github.com/yourusername/COVID-19-Vaccination)
+- **GitHub Repository**: [https://github.com/shreyashpatil530/COVID-19-Vaccination](https://github.com/yourusername/COVID-19-Vaccination)
 - **Kaggle Dataset**: [COVID-19 Vaccination Dataset](https://www.kaggle.com/dataset-link)
-- **Live Dashboard**: [Dashboard URL](https://your-dashboard-url.com)
+- **Live Dashboard**: View The Screanshort.
 
 ### Support & Community
 - 🐛 **Bug Reports**: Open an issue on GitHub
